@@ -2,17 +2,26 @@
 
 # 👋 Hi, I'm Rahul Dewangan
 
-### C++ Learner • Problem Solver • Developer in Progress
+### C++ & Java Learner • Problem Solver • Developer in Progress
 
-I'm currently learning **C++ and Data Structures & Algorithms** and building small projects while improving my programming skills.
+I'm currently learning **C++ and Java**, exploring **Data Structures & Algorithms**, and building small projects while improving my programming skills.
 
 <br>
 
-<a href="https://github.com/Rahuldewangan0">
-  <img src="https://img.shields.io/badge/GitHub-Rahuldewangan0-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:rahul4jm@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-rahul4jm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/rahuldewangan0/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/rahuldewangan0/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Dewanganrahul0">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </div>
@@ -21,9 +30,13 @@ I'm currently learning **C++ and Data Structures & Algorithms** and building sma
 
 ## 🛠️ Currently Learning
 
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="55"/>
+<div align="center">
 
-**C++** • **Data Structures & Algorithms**
+<img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" width="110"/>
+
+**C++** • **Java** • **Data Structures & Algorithms**
+
+</div>
 
 ---
 
@@ -31,17 +44,22 @@ I'm currently learning **C++ and Data Structures & Algorithms** and building sma
 
 Some of the projects I've worked on while learning and experimenting:
 
-- 📌 **DailyTask** — A simple task-based project
-- 🔬 **Mini Project** — Academic/project work
-- 🚀 **SIH26033 Live Tracker** — Hackathon-related project
+- 📌 **DailyTask**
+- 🔬 **Mini Project**
+- 🚀 **SIH26033 Live Tracker**
 - 💻 **More projects coming soon...**
 
-Check out all my repositories →  
-**[github.com/Rahuldewangan0](https://github.com/Rahuldewangan0)**
+<div align="center">
+
+<a href="https://github.com/Rahuldewangan0">
+<img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -54,7 +72,8 @@ Check out all my repositories →
 ## 🌱 Currently
 
 ```text
-Learning     → C++ & DSA
+Learning     → C++ & Java
+Exploring    → Data Structures & Algorithms
 Building     → Small projects
 Improving    → Problem Solving
 Next         → More projects 🚀
@@ -66,12 +85,20 @@ Next         → More projects 🚀
 
 <div align="center">
 
-<a href="https://github.com/Rahuldewangan0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:rahul4jm@gmail.com">
+<img src="https://img.shields.io/badge/Email-rahul4jm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rahuldewangan0/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-rahuldewangan0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/rahuldewangan0/">
+<img src="https://img.shields.io/badge/Instagram-rahuldewangan0-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Dewanganrahul0">
+<img src="https://img.shields.io/badge/X-Dewanganrahul0-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </div>
