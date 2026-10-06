@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Rahul Dewangan"/>
+<img src="./banner.png.png" width="100%" alt="Rahul Dewangan"/>
 
 </div>
 
