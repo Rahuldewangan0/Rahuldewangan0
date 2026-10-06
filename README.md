@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rahul Dewangan
 
-### C++ & Java Learner • Problem Solver • Developer in Progress
+### C++ & Java Learner • Problem Solver • Full Stack Developer in Progress
 
 I'm currently learning **C++ and Java**, exploring **Data Structures & Algorithms**, and building small projects while improving my programming skills.
 
