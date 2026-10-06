@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:9333EA&height=150&section=header&animation=fadeIn" width="100%"/>
+<img src="./banner.png" width="100%" alt="Rahul Dewangan"/>
+
+</div>
 
 # 👋 Hi, I'm Rahul Dewangan
 
