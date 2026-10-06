@@ -4,6 +4,8 @@
 
 </div>
 
+<div align="center">
+  
 # 👋 Hi, I'm Rahul Dewangan
 
 ### C++ & Java Learner • Problem Solver • Developer in Progress
