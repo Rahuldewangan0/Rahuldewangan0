@@ -110,3 +110,13 @@ Next         → More projects 🚀
 ### ✨ Learning. Building. Improving.
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rahuldewangan0/Rahuldewangan0/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
