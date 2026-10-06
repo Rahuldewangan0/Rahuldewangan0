@@ -8,7 +8,7 @@
   
 # 👋 Hi, I'm Rahul Dewangan
 
-### C++ & Java Learner • Problem Solver • Developer in Progress
+### C++ & Java Learner • Problem Solver • Full Stack Developer in Progress
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Learning+C%2B%2B+%26+Java;Exploring+Data+Structures+%26+Algorithms;Building+Projects;Improving+Problem+Solving;Learning+Something+New+Every+Day"/>
 
